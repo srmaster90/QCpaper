@@ -1,6 +1,6 @@
 Code to generate figures from Unsihuay and Master, (in review, *Clin Chem*).
 Note that generation of QC power curves requires that the user first install the *qcsim* package, found at **https://github.com/srmaster90/qcsim**.
-Instructions for installing the *qcsim* package are found in the README for that repository.
+Instructions for installing the *qcsim* package are found in the README for that repository.  Additionally, documentation of the *qcsim()* function is found within help files provided with the *qcsim* package.
 
 *qcsim_simdata.R* calculates QC power curves using the *qcsim* library.  Data are saved in .Rdata files.  For convenience, given the time required to calculate results for highly multiplex simulations, the resulting .Rdata files are also provided in the Results directory.
 

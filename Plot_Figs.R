@@ -30,7 +30,7 @@ legend("bottomright", legend=c(expression(1["3s"]),expression(1["2s"]),
 plot(pres.prec.3s.1)
 lines(pres.prec.2s.1, col=2, lty=2)
 lines(pres.prec.wg1.1, col=4, lty=4)
-legend("bottomright", legend=c(expression(1["2s"]),expression(1["2s"]),
+legend("bottomright", legend=c(expression(1["3s"]),expression(1["2s"]),
                                expression(1["3s"]/2["2s"]/R["4s"]/4["1s"]/10["x"])),
        lty=c(1,2,4),col=c(1,2,4))
 

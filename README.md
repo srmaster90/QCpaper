@@ -1,4 +1,4 @@
-Code to generate figures from Unsihuay and Master, (in review, *Clin Chem*).
+Code to generate figures from Unsihuay D and Master SR, "Extending Quality Control Procedures for Multiplexed Clinical Assays", *Clinical Chemistry*, 2026.
 Note that generation of QC power curves requires that the user first install the *qcsim* package, found at **https://github.com/srmaster90/qcsim**.
 Instructions for installing the *qcsim* package are found in the README for that repository.  Additionally, documentation of the *qcsim()* function is found within help files provided with the *qcsim* package.
 
